@@ -18,7 +18,7 @@ Collection of URLs that may be useful for bss stuff.
 |------|--------------|---------------|------|
 | Sticker Planter | Drop chances for standard rewards of sticker planter | 2025-10-10 | [Open](https://docs.google.com/spreadsheets/d/1VRhlWd0NrmVzYP6dWlbocMGXe0roAGxETOwPTkxd2Rk/edit?usp=sharing) |
 | Seeker Quest Rewards | Odds for sticker rewards from seeker quests | 2025-10-10 | [Open](https://docs.google.com/spreadsheets/d/1VR8O72mS3eKk2hhwDId38OKVX3FYb3QZWXBcKVLrKvE/edit?usp=sharing) |
-| Ability Tokens | Stats for ability tokens | 2025-10-10 | [Open](https://docs.google.com/spreadsheets/d/1hj235xRqhqGlKhkUYtoxloC5aAgJDRqMpQgpjtBndBQ/edit?usp=sharing) |
+| Ability Tokens | Stats for ability tokens | 2025-11-07 | [Open](https://docs.google.com/spreadsheets/d/1J_-839-bUuO9hUhTiBzkCQmBhMWAaBb9pqei3RUjTMg/edit?usp=sharing) |
 | Planters | Stats for planters | 2025-10-10 | [Open](https://docs.google.com/spreadsheets/d/1_v41YnrrNuaWy-wgPUkuAZCiQdFYu4DVLqbzlYkCWB8/edit?usp=sharing) |
 | Amulet Planner | Planner for new comps | 2025-10-10 | [Open](https://docs.google.com/spreadsheets/d/1nfRhsh4h9MWKAYy_m5mp479_VNEDC7hKG_Q8eE0Bbeo/edit?usp=sharing) |
 
